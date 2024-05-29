@@ -31,3 +31,9 @@ let package = Package(
     ]
 )
 ```
+
+## Contributions
+Feel free to contribute via fork/pull request to the master branch. If you want to request a feature or report a bug, please start a new issue.
+
+## Become a Sponsor
+If you find this project useful, please consider becoming our [GitHub Sponsor](https://github.com/sponsors/spacenation).
